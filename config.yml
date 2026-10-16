@@ -20,7 +20,7 @@ watchlist:
 
 breakout:
   period: "7D"
-  threshold_pct: 50
+  threshold_pct: 30
   also_periods: ["1M", "3M"]
 
 report:
