@@ -10,7 +10,7 @@ name: TrendWatch
 # ─────────────────────────────────────────────────────────────────────────
 on:
   schedule:
-    - cron: "0 13 * * *"
+    - cron: "0 4 * * *"
   workflow_dispatch: {}        # lets you run it manually from the Actions tab
 
 permissions:
