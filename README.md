@@ -35,13 +35,13 @@ Fork it → add one free key → pick your keywords → GitHub Actions watches t
 
 <!--TRENDWATCH:START-->
 
-### 📊 Live trends - updated 2026-10-19 04:32 UTC
+### 📊 Live trends - updated 2026-10-20 04:29 UTC
 
 <img src="reports/latest.svg" alt="Latest TrendWatch trends" width="600">
 
 **🚀 Breakouts on the watchlist**
 
-- ↗️ **new multiplayer games** is breaking out on youtube: +42% over 7D  (1M -21%, 3M +28%)
+- 📈 **new multiplayer games** is breaking out on youtube: +76% over 7D  (1M -20%, 3M +23%)
 
 <sub>Auto-updated by TrendWatch · powered by [Trends MCP](https://www.trendsmcp.ai)</sub>
 
