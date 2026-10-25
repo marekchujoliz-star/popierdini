@@ -35,13 +35,11 @@ Fork it → add one free key → pick your keywords → GitHub Actions watches t
 
 <!--TRENDWATCH:START-->
 
-### 📊 Live trends - updated 2026-10-24 04:28 UTC
+### 📊 Live trends - updated 2026-10-25 04:29 UTC
 
 <img src="reports/latest.svg" alt="Latest TrendWatch trends" width="600">
 
-**🚀 Breakouts on the watchlist**
-
-- 🚀 **Roblox game trends** is breaking out on youtube: +414% over 7D  (1M +999999%, 3M +999999%)
+_All quiet - no watchlist breakouts in the latest run._
 
 <sub>Auto-updated by TrendWatch · powered by [Trends MCP](https://www.trendsmcp.ai)</sub>
 
