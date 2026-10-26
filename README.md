@@ -35,11 +35,13 @@ Fork it → add one free key → pick your keywords → GitHub Actions watches t
 
 <!--TRENDWATCH:START-->
 
-### 📊 Live trends - updated 2026-10-25 04:29 UTC
+### 📊 Live trends - updated 2026-10-26 04:33 UTC
 
 <img src="reports/latest.svg" alt="Latest TrendWatch trends" width="600">
 
-_All quiet - no watchlist breakouts in the latest run._
+**🚀 Breakouts on the watchlist**
+
+- ↗️ **new indie games** is breaking out on youtube: +44% over 7D  (1M +28%, 3M -30%)
 
 <sub>Auto-updated by TrendWatch · powered by [Trends MCP](https://www.trendsmcp.ai)</sub>
 
