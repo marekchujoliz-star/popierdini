@@ -1,4 +1,4 @@
-# 📊 TrendWatch report - 2026-11-19 12:47 UTC
+# 📊 TrendWatch report - 2026-11-20 12:42 UTC
 
 ## 🚀 Watchlist breakouts
 
